@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- Linkedin: https://www.linkedin.com/in/abraaoalves
+- Freecodecamp: https://www.freecodecamp.org/abraaoalves
+
+
 <!--
 **AbraaoAlves/AbraaoAlves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
